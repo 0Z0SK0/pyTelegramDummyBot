@@ -1,0 +1,8 @@
+{   
+    "api_key": "BOT_FATHER_API_KEY",
+    
+    "db_host": "localhost",
+    "db_user": "root",
+    "db_pass": "root",
+    "db_base": "bot"
+}
